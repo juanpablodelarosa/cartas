@@ -1,0 +1,22 @@
+body{
+    background-color: #EC1C29;
+ 
+   background-image: url("./mcdonalshamburguesa.jpg") ;
+   background-size: 50px;
+   
+}
+h1{
+   color: #FBB81F;
+font-family:Georgia, 'Times New Roman', Times, serif ;}
+
+.card{
+    background-color: azure;
+    width: 500px;
+    text-align: center;
+    display: inline-block;
+}
+
+.card img{
+    width: 450px;
+    height: 50%;
+}
